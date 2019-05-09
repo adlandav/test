@@ -1,0 +1,6 @@
+# compiled source #
+*.dll
+*.exe
+*.o
+*.class
+
